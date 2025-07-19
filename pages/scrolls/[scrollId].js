@@ -1,0 +1,1 @@
+// Placeholder content for pages/scrolls/[scrollId].js
